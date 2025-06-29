@@ -1,0 +1,26 @@
+{
+  "name": "web3-wallet-demo",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "ethers": "^6.14.4",
+    "next": "15.3.3",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  },
+  "devDependencies": {
+    "@eslint/eslintrc": "^3",
+    "@nomicfoundation/hardhat-toolbox": "^6.0.0",
+    "@tailwindcss/postcss": "^4",
+    "eslint": "^9",
+    "eslint-config-next": "15.3.3",
+    "hardhat": "^2.25.0",
+    "tailwindcss": "^4"
+  }
+}
